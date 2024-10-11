@@ -1,2 +1,2 @@
-# 1-hello-c
-2주차 C 실습
+# 6-real-shift-bit-c
+7주차 C 실습
